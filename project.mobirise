@@ -55,8 +55,8 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "r11hloxy2o",
-    "robotsSwitcher": true,
+    "mbrsiteDomain": "2kzdrixyvz",
+    "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
@@ -80,7 +80,7 @@
     },
     "publishChangesOnly": true,
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-SXQWQ3P776\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-SXQWQ3P776');\n</script>",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nG-SXQWQ3P776"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
