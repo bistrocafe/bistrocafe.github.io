@@ -55,14 +55,15 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "185uzqsri5",
+    "mbrsiteDomain": "u3qzmnlxy5",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-SXQWQ3P776\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-SXQWQ3P776');\n</script>"
   },
   "pages": {
     "index.html": {
